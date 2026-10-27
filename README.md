@@ -4,7 +4,8 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 ## Live Portfolio
 
 
-<img width="1351" height="623" alt="Screenshot 2026-10-22 225246" src="https://github.com/user-attachments/assets/59b544e8-12f8-4f75-af49-470dc7c0c352" />
+<img width="1351" height="623" alt="<img width="1917" height="961" alt="Screenshot 2026-10-28 003734" src="https://github.com/user-attachments/assets/77efb132-b787-499d-9cb6-ac3a7b1cfa01" />
+" src="https://github.com/user-attachments/assets/59b544e8-12f8-4f75-af49-470dc7c0c352" />
 
 <img width="1353" height="609" alt="Screenshot 2026-10-22 225254" src="https://github.com/user-attachments/assets/e7420fb9-37ea-4a58-8bab-a80eda388552" />
 
